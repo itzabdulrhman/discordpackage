@@ -4,11 +4,11 @@
     --secondary-color-r: 114;
     --secondary-color-g: 137;
     --secondary-color-b: 218;
-    --background-color: rgb(40, 42, 46);
-    --secondary-background-color: rgb(45, 47, 51);
-    --accent-background-color: rgb(37, 38, 41);
-    --third-background-color: rgb(32, 34, 37);
-    --box-background-color: rgb(48, 50, 54);
+    --background-color: rgb(196, 189, 154);
+    --secondary-background-color: rgb(180, 167, 142);
+    --accent-background-color: rgb(144, 172, 133);
+    --third-background-color: rgb(70, 107, 98);
+    --box-background-color: rgb(47, 70, 77);
 }
 
 html {
@@ -54,7 +54,7 @@ path {
 }
 
 .text-discord {
-    color: #7289DA;
+    color: #ffffff;
 }
 
 .close {
